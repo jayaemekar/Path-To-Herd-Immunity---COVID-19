@@ -1,1 +1,2 @@
-# Path-To-Herd-Immunity---COVID-19
+# CSCI-611-AppiledMachineLearning
+CSCI-611-AppiledMachineLearning
